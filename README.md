@@ -27,6 +27,13 @@ The watering procedure can be summed up by the following diagram:
 </div>
 <br>
 
+## Wiring Circuit
+
+<br>
+<div style="text-align: center;">
+<img src="circuit/Dragonfly_bb.png" width=740>
+</div>
+<br>
 
 ## Running the Project
 
