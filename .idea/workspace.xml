@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec682446-4424-4700-8f5f-d48921b44e67" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circuit/Dragonfly.fzz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circuit/Dragonfly_bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/diagram.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/system.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/SerialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/PlantationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/connection/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/hardware/DHTSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/hardware/Hygrometer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/hardware/Pump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/meteorology/ForecastAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/meteorology/ForecastResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/meteorology/MetereologyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/meteorology/WeatherType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/meteorology/entity/Forecast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/util/HTTPResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/util/HTTPUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/util/SerialInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/util/UserCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logging.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/hardware/Rotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/client/hardware/Rotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/NotificationLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/NotificationLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/Plantation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/Plantation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dragonfly/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,13 +15,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="425">
-                <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+                <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -161,8 +132,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,6 +202,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,6 +355,14 @@
       <option name="presentableId" value="Default" />
       <updated>1555787628211</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added README. Final commit.">
+      <created>1560898005121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560898005121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -397,19 +376,19 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.33102345" side_tool="true" weight="0.3267974" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32995737" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.66897655" weight="0.3267974" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.46268657" visible="true" weight="0.23311546" />
       <window_info anchor="right" id="JSON Viewer" order="1" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.18390192" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.18603411" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.49946696" weight="0.39978212" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4968017" weight="0.32897604" />
@@ -421,6 +400,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added README. Final commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README. Final commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,24 +417,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DragonflyRaspberyClient.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Plantation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/exception/UserNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -695,13 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/client/DragonflyLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/client/DragonflyLogger.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/client/PlantationController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -709,16 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/DragonflyManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="38" column="47" lean-forward="true" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/DragonflyManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dragonfly/SerialTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -726,16 +676,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MainSimulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainSimulation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -746,11 +687,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="425">
-            <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
