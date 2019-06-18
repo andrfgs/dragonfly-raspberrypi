@@ -34,15 +34,15 @@ public class Plant {
         return growthTime;
     }
 
-    public SunlightRequirements getSunlightRequirements() {
+    public SunlightRequirements getSunlightRequirementsEnum() {
         return SunlightRequirements.values()[sunlightRequirements];
     }
 
-    public LightingRequirements getLightingRequirements() {
+    public LightingRequirements getLightingRequirementsEnum() {
         return LightingRequirements.values()[lightingRequirements];
     }
 
-    public WaterRequirements getWaterRequirements() {
+    public WaterRequirements getWaterRequirementsEnum() {
         return WaterRequirements.values()[waterRequirements];
     }
 
@@ -52,5 +52,20 @@ public class Plant {
 
     public float getMaxTemperature() {
         return maxTemperature;
+    }
+
+    @Override
+    public String toString() {
+        return "Plant{" +
+                "name='" + name + '\'' +
+                ", seedDepth=" + seedDepth +
+                ", spacing=" + spacing +
+                ", growthTime=" + growthTime +
+                ", sunlightRequirements=" + sunlightRequirements +
+                ", lightingRequirements=" + lightingRequirements +
+                ", waterRequirements=" + waterRequirements +
+                ", minTemperature=" + minTemperature +
+                ", maxTemperature=" + maxTemperature +
+                '}';
     }
 }

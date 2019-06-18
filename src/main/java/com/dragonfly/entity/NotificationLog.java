@@ -17,6 +17,14 @@ public class NotificationLog extends Log {
         this.sector = sector;
     }
 
+    public NotificationLog(int unitID, String content, int level, boolean solved) {
+        super.timestamp = System.currentTimeMillis();
+        super.unitID = unitID;
+        this.content = content;
+        this.level = level;
+        this.solved = solved;
+    }
+
     public String getContent() {
         return content;
     }

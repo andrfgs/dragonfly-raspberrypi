@@ -1,5 +1,7 @@
 package com.dragonfly.entity;
 
+import java.util.Objects;
+
 public class Plantation {
     private int sector;
     private int unitID;
@@ -29,5 +31,22 @@ public class Plantation {
 
     public long getSowDate() {
         return sowDate;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Plantation that = (Plantation) o;
+        return sector == that.sector &&
+                unitID == that.unitID &&
+                sowDate == that.sowDate &&
+                Objects.equals(sowedPlant, that.sowedPlant);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(sector, unitID, sowedPlant, sowDate);
     }
 }
