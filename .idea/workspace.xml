@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <first_editor relative-caret-position="503">
+                <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -362,7 +362,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560898005121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed diagram image not showing on README">
+      <created>1560898447512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560898447512</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resized diagram image on README">
+      <created>1560898499758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560898499758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -403,7 +417,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added README. Final commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README. Final commit." />
+    <MESSAGE value="Fixed diagram image not showing on README" />
+    <MESSAGE value="Resized diagram image on README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resized diagram image on README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -702,8 +718,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <first_editor relative-caret-position="503">
+            <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>

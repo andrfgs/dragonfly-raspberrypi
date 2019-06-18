@@ -30,6 +30,6 @@ The watering procedure can be summed up by the following diagram:
 
 ## Running the Project
 
-This client using *Pi4j* which is a port of *WiringPi* for Java. Since *WiringPi* can only run on the Raspberry Pi's ARM architecture with GPIO, it is impossible to run the project without a Rasberry Pi.
+This client uses *Pi4j* which is a port of *WiringPi* for Java. Since *WiringPi* can only run on the Raspberry Pi's ARM architecture with GPIO, it is impossible to run the project without a Rasberry Pi.
 
 In order to run the project in the Raspberry Pi, simply compile the project into a jar and execute it in the pi, either directly or remotely, through, *ssh*. Alternatively, the project can be compiled and the jar generated directly in the pi.
