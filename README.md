@@ -23,7 +23,7 @@ The watering procedure can be summed up by the following diagram:
 
 <br>
 <div style="text-align: center;">
-<img src="docs/diagram.jpg" width=400>
+<img src="docs/diagram.jpg" width=740>
 </div>
 <br>
 
